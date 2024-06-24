@@ -2,9 +2,6 @@
 <h1 style="font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; color:#AF3FE7">Bem vindo ao meu GitHub!<br>Aqui é o João 👋🏽</h1>
 </div><br/>
 
-![jdelabela's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jdelabela&theme=midnight-purple&hide_border=false)
-
-
 ## Tecnologias que estudo atualmente
 
 <div style="display= inline_block"><br/>
