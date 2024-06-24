@@ -1,6 +1,6 @@
 <div align=center>
 <h1 style="font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; color:#AF3FE7">Bem vindo ao meu GitHub!<br>Aqui é o João 👋🏽</h1>
-</div><br/>
+</div>
 
 ## Tecnologias que estudo atualmente
 
